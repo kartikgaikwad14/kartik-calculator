@@ -18,15 +18,15 @@ https://kartik1calculator.netlify.app/
 
 ### Calculator Interface
 
-![Calculator Home](screnshot1.png)
+![Calculator Home](screnshot1.jpg)
 
 ### Input Example
 
-![Calculator Input](screenshot2.png)
+![Calculator Input](screenshot2.jpg)
 
 ### Calculation Result
 
-![Calculator Result](screenshot3.png)
+![Calculator Result](screenshot3.jpg)
 
 ## 🛠️ Technologies Used
 
