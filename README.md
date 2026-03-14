@@ -1,32 +1,32 @@
 # Kartik Calculator
 
-A simple and responsive **Web Calculator** built using **HTML, CSS, and JavaScript**.
-This project performs basic arithmetic operations with a clean and interactive user interface.
+A modern and responsive **Web Calculator** built using **HTML, CSS, and JavaScript**.
+It performs basic arithmetic operations with a clean UI and smooth interaction.
 
 ## 🌐 Live Website
 
-🔗 https://kartik1calculator.netlify.app/
+https://kartik1calculator.netlify.app/
 
 ## 🚀 Features
 
-* Perform basic arithmetic operations
-* Addition, subtraction, multiplication, and division
-* Responsive calculator layout
-* Clean and modern UI design
-* Fast and interactive calculations
+* Basic arithmetic operations
+* Responsive calculator design
+* Clean and modern UI
+* Fast calculations using JavaScript
 
-## 🖥️ Screenshot
+## 🖼️ Project Screenshots
 
-Screenshot 1
-[screenshot1.jpg]
+### Calculator Interface
 
-Screenshot 2
-[screenshot2.jpg]
+![Calculator Home](screnshot1.png)
 
-Screenshot 3 
-[screenshot3.jpg]
+### Input Example
 
-![Calculator Screenshot](calculator-screenshot.png)
+![Calculator Input](screenshot2.png)
+
+### Calculation Result
+
+![Calculator Result](screenshot3.png)
 
 ## 🛠️ Technologies Used
 
@@ -41,7 +41,6 @@ calculator-project
 ├── index.html
 ├── style.css
 ├── script.js
-├── calculator-screenshot.png
 └── README.md
 
 ## 👨‍💻 Author
@@ -49,7 +48,3 @@ calculator-project
 Kartik Gaikwad
 Computer Engineering Student
 DY Patil Institute of Technology, Pimpri
-
-## ⭐ Show Your Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
